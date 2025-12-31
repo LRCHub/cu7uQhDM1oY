@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "F.O.O.L",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-31T15:55:34.858137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "F.O.O.L",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_F.O.O.L_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "F.O.O.L.",
+      "artist": "Young & Sick",
+      "has_synced": true,
+      "path": "select/02_F.O.O.L._Young_&_Sick.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HUMANS (F.O.O.L Remix)",
+      "artist": "Kloud",
+      "has_synced": true,
+      "path": "select/03_HUMANS_(F.O.O.L_Remix)_Kloud.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "F.O.O.L.",
+      "artist": "Julia Michaels",
+      "has_synced": false,
+      "path": "select/04_F.O.O.L._Julia_Michaels.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "F.O.O.L & Forgotten - Dystopia 2077",
+      "artist": "Forgotten",
+      "has_synced": true,
+      "path": "select/05_F.O.O.L_&_Forgotten_-_Dystopia_2077_Forgotten.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HUMANS - F.O.O.L Remix",
+      "artist": "KLOUD",
+      "has_synced": true,
+      "path": "select/06_HUMANS_-_F.O.O.L_Remix_KLOUD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "f.o.o.l.",
+      "artist": "Ni/Co",
+      "has_synced": false,
+      "path": "select/07_f.o.o.l._Ni_Co.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "F.O.O.L.",
+      "artist": "LNY TNZ",
+      "has_synced": false,
+      "path": "select/08_F.O.O.L._LNY_TNZ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "F.O.O.L & The Forgotten - Dystopia 2077",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/09_F.O.O.L_&_The_Forgotten_-_Dystopia_2077_Various.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "F.O.O.L. - Unplugged",
+      "artist": "LNY TNZ",
+      "has_synced": false,
+      "path": "select/10_F.O.O.L._-_Unplugged_LNY_TNZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "F.O.O.L",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_F.O.O.L_King_Gnu.txt"
+    }
+  ]
+}
